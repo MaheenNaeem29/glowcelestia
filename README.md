@@ -1,16 +1,30 @@
-# React + Vite
+# 🌌 GlowCelestia
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+GlowCelestia is an interactive, visually immersive web application that blends real-time hand-tracking with dynamic 3D celestial visuals. Move your hand in front of your webcam and watch the scene respond in real time.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- 🖐️ **Real-time hand tracking** using MediaPipe Hands
+- 🌠 **Interactive 3D scenes** powered by Three.js & React Three Fiber
+- 🎥 **Live webcam integration** for gesture-based interaction
+- 💫 **Smooth animations** with Framer Motion
+- 🎨 **Modern styling** with Tailwind CSS
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+React 19 · Vite · Three.js · React Three Fiber · MediaPipe · Tailwind CSS · Framer Motion
 
-## Expanding the Oxlint configuration
+## 🚀 Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+```bash
+git clone https://github.com/MaheenNaeem29/glowcelestia.git
+cd glowcelestia
+npm install
+npm run dev
+```
+
+Open `http://localhost:5173` in your browser and allow camera access to try the hand-tracking interaction.
+
+## 📸 Preview
+
+*(screenshots/GIF yahan add karein)*
