@@ -24,7 +24,3 @@ npm run dev
 ```
 
 Open `http://localhost:5173` in your browser and allow camera access to try the hand-tracking interaction.
-
-## 📸 Preview
-
-*(screenshots/GIF yahan add karein)*
